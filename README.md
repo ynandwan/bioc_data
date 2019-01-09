@@ -1,2 +1,4 @@
 # bioc_data
-Biocreate-CDR data for Medical Entity Recognition and Normalization Task
+Biocreative-CDR data for Medical Entity Recognition and Normalization Task
+Uses PyBioC - https://github.com/2mh/PyBioC.git
+
